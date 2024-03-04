@@ -25,7 +25,7 @@
 #### 플레이어
 -
 -
-#### 몬스터
+#### 몬스터 - <a href="https://github.com/100wodud/ChineseADgame/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Enemy)" >상세보기 - WIKI 이동</a>
 - 3가지 타입의 적 유닛
 - 보스 유닛
 - 피격 이벤트
